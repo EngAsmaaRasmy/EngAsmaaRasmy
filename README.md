@@ -56,17 +56,37 @@ ForRent (Rent Services) site for renting things.
 
 ### DesentLook
 DesentLook site to buy clothes for all groups and ages.
-<p><a href="https://test.4rentsd.com" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+<p><a href="https://test.decentlook.fashion/" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
 <p>
 
 <hr>
 
 ### Idea Learning System
-DesentLook site to buy clothes for all groups and ages.
-<p><a href="https://test.4rentsd.com" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+Distance learning website
+<p><a href="https://dev.idea-learning.riseupsoftservices.com/" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
 <p>
 
 <hr>
+
+### Elmansour
+Elmansour helps you in renting the right car for youou. Just download our app, Choose the right car model, date, time & location to book. A car will bring you to the specified place.
+<hr>
+
+### Kafeel
+Kafeel helps you to change the sponsorship of your worker, add a customer sponsorship or offer a job.
+<hr>
+
+### Hasboo
+Hasboo helps you buy or sell real estate and land.
+<hr>
+
+### Careerna
+Careerna is an innovative web-based online employment marketplace, we provide the business community with high sophisticated AI-driven recruitment platform to find qualified candidates, on the other side help individuals in their career journey by connecting them with resources.. We are on a mission to reduce unemployment rates in Sudan within the next 10 years.
+
+<p><a href="https://careerna.com/" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+<p>
+<hr>
+
 
 
 
