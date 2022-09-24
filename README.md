@@ -47,6 +47,7 @@
 
 
 <h2> Samples from my projects </h2>
+
 ### ForRent
 ForRent (Rent Services) site for renting things.
 <p><a href="https://test.4rentsd.com" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
