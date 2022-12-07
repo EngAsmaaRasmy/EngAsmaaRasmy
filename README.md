@@ -1,93 +1,26 @@
-<h2 align="center"> Hi there, I'm Asmaa Rasmy 👋:heart: </h2>
+<h1 align="center">Hi 👋, I'm Asmaa Rasmy</h1>
+<h3 align="center">A passionate Software Engineer from Egypt (Full Stack Web Developer Laravel & Vue & Angular)</h3>
 
-<!--<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
+- 🔭 I’m currently working on **Interactivo LTD**
 
-- Software Engineering
-- Backend Developer
-- Full Stack Developer
-<hr>
+- 🌱 I’m currently learning **Node js**
 
-<h2> Contact with me on </h2>
+- 💬 Ask me about **Laravel, Vue, Angular**
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/EngAsmaaRasmy" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+- 📫 How to reach me **asmaarasmy98@gmail.com**
 
-- business email : asmaarasmy98@gmail.com
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hwQsin5JQny4xivaIA_OZC0PxIzt4vxP/view?usp=sharing](https://drive.google.com/file/d/1hwQsin5JQny4xivaIA_OZC0PxIzt4vxP/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/asmaarasmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaarasmy" height="30" width="40" /></a>
+</p>
 
-<p><a href="http://Wa.me/201091590529" target="_blank"><img alt="Asmaa Rasmy" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/asmaarasmy" target="_blank"><img alt="Asmaa Rasmy" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engasmaarasmy&show_icons=true&locale=en&layout=compact" alt="engasmaarasmy" /></p>
 
-<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engasmaarasmy&show_icons=true&locale=en" alt="engasmaarasmy" /></p>
 
-<h2>Tools & Technologies</h2>
-<p>
-   <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Vue.js%20-%23F7DF1E.svg?&style=for-the-badge&color=41B883" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/java%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Bitbucket%20-%23F7DF1E.svg?&style=for-the-badge&color=2684FF" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
-</p> 
-
-
-<h2> Samples from my projects </h2>
-
-### ForRent
-ForRent (Rent Services) site for renting things.
-<p><a href="https://test.4rentsd.com" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<p>
-
-<hr>
-
-### DesentLook
-DesentLook site to buy clothes for all groups and ages.
-<p><a href="https://test.decentlook.fashion/" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<p>
-
-<hr>
-
-### Idea Learning System
-Distance learning website
-<p><a href="https://dev.idea-learning.riseupsoftservices.com/" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<p>
-
-<hr>
-
-### Elmansour
-Elmansour helps you in renting the right car for youou. Just download our app, Choose the right car model, date, time & location to book. A car will bring you to the specified place.
-<hr>
-
-### Kafeel
-Kafeel helps you to change the sponsorship of your worker, add a customer sponsorship or offer a job.
-<hr>
-
-### Hasboo
-Hasboo helps you buy or sell real estate and land.
-<hr>
-
-### Careerna
-Careerna is an innovative web-based online employment marketplace, we provide the business community with high sophisticated AI-driven recruitment platform to find qualified candidates, on the other side help individuals in their career journey by connecting them with resources.. We are on a mission to reduce unemployment rates in Sudan within the next 10 years.
-
-<p><a href="https://careerna.com/" target="_blank"><img alt="For rent" src="https://img.shields.io/badge/Browse%20it%20-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<p>
-<hr>
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engasmaarasmy&" alt="engasmaarasmy" /></p>
