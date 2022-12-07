@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmaa Rasmy</h1>
 <h3 align="center">A passionate Software Engineer from Egypt (Full Stack Web Developer Laravel & Vue & Angular)</h3>
 
-<p align="center">    <img src='https://routeegypt.com/pinkboatIMG/geeks.png' width="300"/></p>
+<hr>
 
 - 🔭 I’m currently working on **Interactivo LTD**
 
